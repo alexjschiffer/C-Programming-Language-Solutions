@@ -1,5 +1,6 @@
-/* Exercise 1-8 */
 #include <stdio.h>
+
+/* Exercise 1-8: Print out the number of blanks, tabs, and new lines in a given input */
 
 main(){
   int c, bn, tn, nn;

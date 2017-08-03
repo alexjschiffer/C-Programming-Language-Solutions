@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/* Program for printing a table of Fahrenheit and Celsius values */
+/* Exercise 1-4: Program for printing a table of Celsius and Fahrenheit values */
 
 main(){
   float fahr, cels;
@@ -14,7 +14,7 @@ main(){
 
   printf("   Celsius\tFahrenheit\n");
 
-  while(fahr < upper){
+  while(cels < upper){
     fahr = (9.0/5.0*cels) + 32.0;
     printf("%10.0f \t %9.1f \n", cels, fahr);
     cels = cels + step;

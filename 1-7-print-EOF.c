@@ -1,7 +1,9 @@
-/* Exercise 1-7 */
 #include <stdio.h>
 
-main(){
+/* Exercise 1-7: Write a program that prints the EOF character */
+
+int main(void){
   putchar(EOF);
   putchar('\n');
+  return 0;
 }

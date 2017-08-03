@@ -1,6 +1,6 @@
-/* Exercise 1-13 */
-/* Write a program that prints a histogram of the lengths of words in its input */
 #include <stdio.h>
+
+/* Exercise 1-13: Write a program that prints a histogram of the lengths of words in its input */
 
 int main(void)
 {

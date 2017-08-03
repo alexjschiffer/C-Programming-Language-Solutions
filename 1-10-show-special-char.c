@@ -1,5 +1,6 @@
-/* Exercise 1-10 */
 #include <stdio.h>
+
+/* Exercise 1-10: explicitly print special characters from the input */
 
 int main(){
   int c;

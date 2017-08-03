@@ -1,6 +1,6 @@
-/* Exercise 1-12 */
-/* Write a program that prints its input one word per line */
 #include <stdio.h>
+
+/* Exercise 1-12: Write a program that prints its input one word per line */
 
 int main(void)
 {
@@ -13,4 +13,5 @@ int main(void)
       putchar(c);
     }
   }
+  return 0;
 }

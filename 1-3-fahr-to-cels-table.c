@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/* Program for printing a table of Fahrenheit and Celsius values */
+/* Exercise 1-3: Program for printing a table of Fahrenheit and Celsius values */
 
 main(){
   float fahr, cels;
